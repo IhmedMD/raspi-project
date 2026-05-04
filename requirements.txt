@@ -1,6 +1,9 @@
 DateTime==6.0
-numpy==2.4.2
+numpy==2.4.4
 opencv-python==4.13.0.92
 pytz==2025.2
+scikit-image==0.26.0
+scikit-learn==1.8.0
+tqdm==4.67.3
 vmbpy==1.2.0
 zope.interface==8.2
